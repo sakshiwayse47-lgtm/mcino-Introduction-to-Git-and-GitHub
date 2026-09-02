@@ -16,3 +16,4 @@ Simple Interest = (1000 × 5 × 2) / 100 = 100
 
 Therefore, the Simple Interest is 100.
 Typo fixed.
+Typo fixed.
